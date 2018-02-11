@@ -1,8 +1,8 @@
-#Telecom Tower
+# Telecom Tower
 
 This document describes the architecture of the "Telecom Tower" project.
 
-##Architecture
+## Architecture
 
 ![architecture](https://docs.google.com/drawings/d/e/2PACX-1vT5XbBx2p2A9NFyNsqiztXIGJcEgpjv67d1myShRIRgwseCl_fZy1MKyNZKckX9tApWrhe9KihQMkkS/pub?w=960&h=540)
 
